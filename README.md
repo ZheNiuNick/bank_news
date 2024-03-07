@@ -1,1 +1,1 @@
-# bank_news
+This repository is dedicated to providing comprehensive tools and resources for analyzing the impact of intelligent risk management technology on credit risk within Chinese commercial banks. Leveraging a unique dataset spanning from 2012 to 2022, this project employs a variety of computational techniques to uncover insights into how technological advancements in risk management are shaping the banking sector.
